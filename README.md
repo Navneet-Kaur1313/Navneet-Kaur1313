@@ -52,7 +52,7 @@ I'm passionate about software development, problem-solving, and creating impactf
 
 ## 🔗 Let's Connect
 
-- 📫 **Email:** your-navneetkaur31012005@gmail.com  
+- 📫 **Email:** navneetkaur31012005@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/navneet-kaur-1b304a265](https://linkedin.com/in/navneet-kaur-1b304a265)  
 
 ---
