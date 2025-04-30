@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Navneet Kaur!  
 
-🚀 **Aspiring Software Developer** | 🏆 SIH 2024 Finalist | 🧠 Tech Content Creator | 🎙 Orator | 💡 Hackathon Enthusiast  
+🚀 **Aspiring Software Developer** | 🏆 SIH 2024 Finalist | 🎙 Orator | 💡 Hackathon Enthusiast  
 
 ---
 
