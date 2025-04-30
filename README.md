@@ -1,4 +1,9 @@
 # 👋 Hello, I'm Navneet Kaur!  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/99799c5e-8ea5-4306-9f57-0742b67d39be" alt="Navneet Kaur Banner" />
+</p>
+
+https://github.com/user-attachments/assets/99799c5e-8ea5-4306-9f57-0742b67d39be
 
 🚀 **Aspiring Software Developer** | 🏆 SIH 2024 Finalist | 🎙 Orator | 💡 Hackathon Enthusiast  
 
@@ -54,8 +59,7 @@ I'm passionate about software development, problem-solving, and creating impactf
 
 - 📫 **Email:** navneetkaur31012005@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/navneet-kaur-1b304a265](https://linkedin.com/in/navneet-kaur-1b304a265)
-- (![image](https://github.com/user-attachments/assets/99799c5e-8ea5-4306-9f57-0742b67d39be)
-) 
+
 
 ---
 
