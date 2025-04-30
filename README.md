@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/99799c5e-8ea5-4306-9f57-0742b67d39be" alt="Navneet Kaur Banner" />
 </p>
 
-https://github.com/user-attachments/assets/99799c5e-8ea5-4306-9f57-0742b67d39be
+
 
 🚀 **Aspiring Software Developer** | 🏆 SIH 2024 Finalist | 🎙 Orator | 💡 Hackathon Enthusiast  
 
